@@ -65,12 +65,6 @@ if(DEBUG) {
 
 
 
-
-
-
-
-
-
 /*
 function xn_php_strip_whitespace($file) {
 	$s = php_strip_whitespace($file);
